@@ -1,6 +1,6 @@
-﻿# html_JULIAN 
+﻿# html_JULIAN
 # mi proyecto ejemplo <!-- # para colocar un titulo-->
-este proyecto se genero para implementar una pagina con html y css y repositorio en githug <!--descripcion corta del repositorio-->
+este proyecto se genero para implementar una pagina con html y css y repositorio en github <img src="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/49427/waving-hand-emoji-clipart-md.png" width="40px"> <!--descripcion corta del repositorio-->
 
 ## contenido del repositorio <!-- subtitulo del radme-->
 - index.html
@@ -29,6 +29,7 @@ las contribuciones son bienvenidad, si desea participar
 
  ## seccion repo remoto
  
+
 
 
 
