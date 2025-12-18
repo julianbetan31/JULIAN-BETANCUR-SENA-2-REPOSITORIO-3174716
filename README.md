@@ -7,7 +7,7 @@ este proyecto se genero para implementar una pagina con html y css y repositorio
 - style.css
 
 ## como ejecutar el proyecto
-1. clonar el repositorio 
+1. clonar el repositorio https://github.com/julianbetan31/JULIAN-BETANCUR-SENA-2-REPOSITORIO-3174716.git
  git clone 
  2. abre el archivo index.html en su navegador 
 
@@ -29,5 +29,6 @@ las contribuciones son bienvenidad, si desea participar
 
  ## seccion repo remoto
  
+
 
 
