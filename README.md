@@ -8,7 +8,7 @@ este proyecto se genero para implementar una pagina con html y css y repositorio
 
 ## como ejecutar el proyecto
 1. clonar el repositorio 
- git clone https://github.com/julianbetan31/Repositorio-SENA-2-3174716-JULIAN-.git
+ git clone 
  2. abre el archivo index.html en su navegador 
 
  ## requisitos <!-- seccion donde se espeficica que requerimientos debe tener el usuario-->
@@ -29,4 +29,5 @@ las contribuciones son bienvenidad, si desea participar
 
  ## seccion repo remoto
  
+
 
